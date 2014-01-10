@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lynn-developer.github.io//github/sitemap.xml 
